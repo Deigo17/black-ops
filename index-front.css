@@ -1,0 +1,38 @@
+body{
+    color:red;
+ background-image:url(gradient.jpg) ;
+ background-position: fixed;
+}
+
+#container{
+padding: 50px;
+}
+
+input[type=text], input[type=password]{
+    width: 100%;
+border: none;
+background: grey;
+padding: 10px;
+outline: none;
+cursor: pointer;
+}
+
+h1{
+    text-align: center;
+}
+
+#password{
+    padding-top: 20px;
+}
+
+#button{
+    padding-top: 20px;
+}
+.special{
+    width: 100%;
+    color:pink;
+   padding: 10px 10px 10px 10px;
+   border-radius: 15px;
+   font-size: 20px;
+   background: black;
+}
